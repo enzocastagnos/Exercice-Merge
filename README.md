@@ -1,4 +1,4 @@
-# Exercice-Merge
+REMOTE
 Git/GitHub 5 : Merge &amp; Conflits
 
 
